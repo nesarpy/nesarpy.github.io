@@ -152,7 +152,7 @@ body {
 
 .hero {
     padding: 100px 0 150px;
-    background: var(--hero-gradient), url('/assets/background.webp');
+    background: var(--hero-gradient), url('/assets/background.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
